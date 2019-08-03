@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bouncing-dvd/precache-manifest.6f7916959c970242a3008d29f0846abc.js"
+  "/bouncing-dvd/precache-manifest.61dd3629846c51465b66b807ae4ac690.js"
 );
 
 self.addEventListener('message', (event) => {

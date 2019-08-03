@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css","DVD.css"],"names":[],"mappings":"AAAA,KACE,SAAU,CACV,QAAS,CACT,UAAW,CACX,WACF,CCLA,KACE,iBACF","file":"main.9f231485.chunk.css","sourcesContent":["body {\n  padding: 0;\n  margin: 0;\n  width: 100%;\n  height: 100%;\n}\n",".DVD {\n  position: absolute;\n}"]}
