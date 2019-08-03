@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bouncing-dvd/static/css/main.a835f5ee.chunk.css",
+    "main.js": "/bouncing-dvd/static/js/main.abfe18a5.chunk.js",
+    "main.js.map": "/bouncing-dvd/static/js/main.abfe18a5.chunk.js.map",
+    "runtime~main.js": "/bouncing-dvd/static/js/runtime~main.e707364a.js",
+    "runtime~main.js.map": "/bouncing-dvd/static/js/runtime~main.e707364a.js.map",
+    "static/js/2.4e81ba5b.chunk.js": "/bouncing-dvd/static/js/2.4e81ba5b.chunk.js",
+    "static/js/2.4e81ba5b.chunk.js.map": "/bouncing-dvd/static/js/2.4e81ba5b.chunk.js.map",
+    "index.html": "/bouncing-dvd/index.html",
+    "precache-manifest.6f7916959c970242a3008d29f0846abc.js": "/bouncing-dvd/precache-manifest.6f7916959c970242a3008d29f0846abc.js",
+    "service-worker.js": "/bouncing-dvd/service-worker.js",
+    "static/css/main.a835f5ee.chunk.css.map": "/bouncing-dvd/static/css/main.a835f5ee.chunk.css.map"
+  }
+}
